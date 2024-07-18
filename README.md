@@ -1,4 +1,4 @@
-## Mobile Low-Cost Spectrometer API
+## Mobile Low-Cost Spectrometer API [IN DEVELOPMENT]
 
 The Mobile Low-Cost Spectrometer API is an accessible solution for measuring radioactivity and the energy of ionizing radiation, such as alpha particles and electrons. This system is based on two existing projects: the RadStar Alpha equipment and the DIY project supported by CERN (https://github.com/ozel/DIY_particle_detector/).
 
