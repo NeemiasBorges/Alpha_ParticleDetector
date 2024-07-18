@@ -5,7 +5,8 @@ The Mobile Low-Cost Spectrometer API is an accessible solution for measuring rad
 ### Overview
 
 This compact spectrometer is designed to provide real-time data, enabling its use in fieldwork, educational applications, and scientific studies. With a portable and affordable design, it democratizes access to radiation measurement, making it an essential tool for a wide range of users.
---
+
+***
 ### Features
 
 - **Radioactivity Measurement**: Capable of detecting and measuring the energy of alpha particles and electrons.
