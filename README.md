@@ -28,7 +28,7 @@ This project aims to provide a radiation measurement tool that is:
 - **Accurate**: Provides reliable and detailed measurements.
 - **Integrable**: Easy to integrate with other applications through its API.
 
---
+***
 ### Contributions
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
